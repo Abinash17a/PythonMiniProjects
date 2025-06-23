@@ -1,0 +1,34 @@
+date,amount,category,description
+23-06-2025,111.0,Expense,life
+23-06-2025,125.0,Income,salary
+24-06-2025,250.0,Income,freelance project
+24-06-2025,75.0,Expense,groceries
+25-06-2025,60.0,Expense,transport
+25-06-2025,200.0,Income,bonus
+26-06-2025,100.0,Expense,entertainment
+26-06-2025,30.0,Expense,coffee
+27-06-2025,150.0,Expense,restaurant
+27-06-2025,300.0,Income,stock dividends
+28-06-2025,90.0,Expense,utilities
+28-06-2025,50.0,Expense,phone bill
+29-06-2025,500.0,Income,client payment
+29-06-2025,120.0,Expense,shopping
+30-06-2025,80.0,Expense,subscriptions
+30-06-2025,250.0,Investment,mutual funds
+01-07-2025,60.0,Expense,pet care
+01-07-2025,1000.0,Income,salary
+01-07-2025,100.0,Savings,emergency fund
+02-07-2025,90.0,Expense,gas refill
+02-07-2025,350.0,Income,freelance writing
+03-07-2025,45.0,Expense,laundry
+03-07-2025,130.0,Expense,dining out
+04-07-2025,220.0,Investment,stocks
+04-07-2025,70.0,Expense,gym membership
+05-07-2025,400.0,Income,project milestone
+05-07-2025,95.0,Expense,gifts
+06-07-2025,55.0,Expense,parking fees
+06-07-2025,85.0,Expense,medical
+07-07-2025,150.0,Savings,vacation fund
+07-07-2025,200.0,Expense,electronics
+08-07-2025,275.0,Income,consulting session
+08-07-2025,65.0,Expense,stationery
